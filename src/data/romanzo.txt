@@ -1,0 +1,2 @@
+Scrivere un programma Java che carica in una struttura dati tutte le parole presenti in un romanzo italiano presente su un file di testo (dati/romanzo.txt) a tua scelta.
+Conta Le parole presenti nel romanzo e di queste quante sono quelle diverse.
